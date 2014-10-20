@@ -1,20 +1,20 @@
-- href: /page/timing.html
+﻿- href: /page/timing.html
   icon: fa fa-clock-o
-  title: 时间轴
+  title: Timeline
 
 - href: /page/category.html
   icon: fa fa-tags
-  title: 分类
+  title: Category
 
 - href: /page/read.html
   icon:  fa fa-book
-  title: 阅读
+  title: Read
 
-- href: /life/index.html
-  icon: fa fa-eyedropper
-  title: 记录
-  newblank: true
+- href: /page/link.html
+  icon: fa fa-link
+  title: Link
 
 - href: /page/about.html
   icon: fa fa-paper-plane-o
-  title: 关于
+  title: About
+# newblank: true 是否开启一个新的页面
