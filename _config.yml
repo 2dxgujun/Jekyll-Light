@@ -1,4 +1,4 @@
-markdown: kramdown
+﻿markdown: rdiscount
 highlighter: pygments
 permalink: blog/:year/:month/:day/:title.html
 paginate: 6
@@ -9,15 +9,15 @@ blog:
     description:                                         # 博客描述
     title:                                               # 网页标题
     url:                                                 # 博客地址
-    duoshuo:                                             # 多说ID
-    tongji:                                              # 百度统计ID
-    qiniu:                                               # 七牛云地址
+    duoshuo:                                             # 多说ID（可选）
+    tongji:                                              # 百度统计ID（可选）
+    qiniu:                                               # 七牛云地址（可选）
 author:
     name:                                                # 作者名称
     email:                                               # 邮箱地址
     weibo:                                               # 微博地址
     github:                                              # GitHub地址
-    logo:                                                # logo地址
+    logo:                                                # 头像地址
     douban:
-        name:                                            # 豆瓣地址名称
+        name:                                            # 豆瓣地址名称（用于获取豆瓣我读页）
         key:                                             # 豆瓣API Key
