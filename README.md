@@ -14,6 +14,8 @@
 6. 修改About me页面的样式
 7. Page title改用English
 8. 修改CSS样式表，使Post中的图片居中显示
+9. 修改CSS样式表，增强<a>链接下划线的颜色对比
+10. 修改CSS样式表，增强<code>代码段的背景色对比
 
 #Licence
 ---
